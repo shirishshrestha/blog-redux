@@ -1,5 +1,5 @@
 const Logo = ({ width = "100px" }) => {
-  return <div></div>;
+  return <div>Logo</div>;
 };
 
 export default Logo;
